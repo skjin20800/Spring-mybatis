@@ -1,0 +1,8 @@
+package com.cos.mybatisex01.repository;
+
+import com.cos.mybatisex01.model.Product;
+
+public interface ProductRepository {
+	public void save(Product product);
+		
+}

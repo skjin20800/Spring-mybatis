@@ -1,0 +1,5 @@
+package com.cos.mybatisex01.model.beans;
+
+public class PanmaeBean {
+
+}
